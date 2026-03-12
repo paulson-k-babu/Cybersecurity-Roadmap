@@ -38,8 +38,8 @@
 
 | Qualification | Institution | Year |
 |---|---|---|
-| MCA (Master of Computer Applications) | — | 2024 |
-| BCA (Bachelor of Computer Applications) | — | 2022 |
+| MCA (Master of Computer Applications) | College of Engineering Chengannur | 2024 |
+| BCA (Bachelor of Computer Applications) | Carmel College Muhamma | 2022 |
 | Cisco Networking Basics | Cisco | 2025 |
 
 ---
