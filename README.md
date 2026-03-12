@@ -47,5 +47,5 @@
 ## 📫 Connect
 
 - 🔗 GitHub: [joseph920744](https://github.com/joseph920744)
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 💼 LinkedIn: [www.linkedin.com/in/paulson-babu-472563215]
 ```
