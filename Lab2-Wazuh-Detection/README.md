@@ -186,8 +186,8 @@ wazuh-brute-force-detection/
 **Paulson K Babu**
 Cybersecurity Enthusiast | SOC Analyst Aspirant
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseph920744-181717?style=flat&logo=github)](https://github.com/joseph920744)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-paulson--k--babu-181717?style=flat&logo=github)](https://github.com/paulson-k-babu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulsonkbabu)
 
 ---
 
